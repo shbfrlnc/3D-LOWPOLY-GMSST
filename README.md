@@ -1,2 +1,4 @@
 # 3D-LOWPOLY-GMSST
-Kumpulan 3D Model Low Poly
+3D-LOWPOLY-GMSST adalah Kumpulan 3D Model Low Poly.
+
+Untuk mendownloadnya, kunjungi bagian releases.
