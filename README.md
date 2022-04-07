@@ -4,9 +4,9 @@
 
 Untuk mendownloadnya, kunjungi bagian Releases.
 
-Untuk video screencast-nya ada di:
+## Screencast
 
-https://www.youtube.com/playlist?list=PLOg7o5N1MDWQ5DeXaaz3Hhx0JbmsjP9iW
+- https://www.youtube.com/playlist?list=PLOg7o5N1MDWQ5DeXaaz3Hhx0JbmsjP9iW
 
 ## Info Tambahan
 
