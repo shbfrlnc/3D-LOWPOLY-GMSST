@@ -1,8 +1,12 @@
 # 3D-LOWPOLY-GMSST
 
-3D-LOWPOLY-GMSST adalah Kumpulan 3D Model Low Poly.
+## Download
 
-Untuk mendownloadnya, kunjungi bagian Releases.
+To download the 3d models, visit the Releases Page.
+
+## Intro
+
+3D-LOWPOLY-GMSST is a low poly 3d models in Blender format.
 
 ## Screencast
 
