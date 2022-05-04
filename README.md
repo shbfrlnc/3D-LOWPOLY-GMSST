@@ -2,17 +2,17 @@
 
 ## Download
 
-To download the 3d models, visit the Releases Page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-3D-LOWPOLY-GMSST is a low poly 3d models in Blender format.
+3D-LOWPOLY-GMSST adalah model 3D low poly dalam format Blender.
 
 ## Screencast
 
